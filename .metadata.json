@@ -1,0 +1,10 @@
+[
+  {
+    "package": "networktools",
+    "oncran": true
+  },
+  {
+    "package": "networktree",
+    "oncran": true
+  }
+]

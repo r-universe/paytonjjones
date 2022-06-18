@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "networktools"]
+	path = networktools
+	url = https://github.com/paytonjjones/networktools
+	shallow = true
+	registered = true
+[submodule "networktree"]
+	path = networktree
+	url = https://github.com/paytonjjones/networktree
+	shallow = true
+	registered = true
